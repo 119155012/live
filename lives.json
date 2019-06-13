@@ -1,10 +1,10 @@
 {
-  "visibleCount": 4,
+  "visibleCount": 6,
   "lives": [
     {
       "#id": "https://www.facebook.com/icablenews/videos/461595081319502/",
       "#title": "icablenews",
-      "active": false
+      "active": true
     },
     {
       "#id": "https://www.facebook.com/RTHKVNEWS/videos/702944396807493/",
@@ -14,7 +14,7 @@
     {
       "#id": "https://www.facebook.com/now.comNews/videos/601135177061821/",
       "#title": "now.comNews",
-      "active": false
+      "active": true
     },
     {
       "#id": "https://www.facebook.com/hk.nextmedia/videos/270422627112505/",
