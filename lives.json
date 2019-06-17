@@ -13,9 +13,18 @@
       "active": false
     },
     {
-
-      "#id": "https://www.facebook.com/RTHKVNEWS/videos/2301996583182101/",
-      "#title": "RTHKVNEWS",
+      "#id": "_isseGKrquc",
+      "#title": "PTS",
+      "active": true
+    },
+    {
+      "#id": "T0nE_H-I8JQ",
+      "#title": "NBC2",
+      "active": true
+    },
+    {
+      "#id": "coYw-eVU0Ks",
+      "#title": "JapaNews24",
       "active": true
     },
     {
@@ -28,13 +37,13 @@
 
       "#id": "https://www.facebook.com/hk.nextmedia/videos/398873840715480/",
       "#title": "hk.nextmedia",
-      "active": true
+      "active": false
     },
     {
 
       "#id": "https://www.facebook.com/standnewshk/videos/324385491789003/",
       "#title": "standnewshk",
-      "active": true
+      "active": false
     },
     {
       "#id": "https://www.facebook.com/onccnews/videos/2347986585414456/",
