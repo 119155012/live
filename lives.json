@@ -1,5 +1,5 @@
 {
-  "visibleCount": 4,
+  "visibleCount": 6,
   "lives": [
     
     {
@@ -13,13 +13,23 @@
       "active": true
     },
     {
-      "#id": "T0nE_H-I8JQ",
+      "#id": "tPeUHECNLKs",
       "#title": "NBC2",
       "active": true
     },
     {
       "#id": "coYw-eVU0Ks",
       "#title": "JapaNews24",
+      "active": true
+    },
+    {
+      "#id": "XxJKnDLYZz4",
+      "#title": "FTV",
+      "active": true
+    },
+    {
+      "#id": "4ZVUmEUFwaY",
+      "#title": "SETN",
       "active": true
     },
     {
