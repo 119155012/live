@@ -3,37 +3,37 @@
   "lives": [
     {
       "type": "youtube",
-      "#id": "TL8mmew3jb8",
+      "#id": "https://www.youtube.com/embed/TL8mmew3jb8",
       "#title": "CTS",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "ED4QXd5xAco",
+      "#id": "https://www.youtube.com/embed/ED4QXd5xAco",
       "#title": "PTS",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "tPeUHECNLKs",
+      "#id": "https://www.youtube.com/embed/tPeUHECNLKs",
       "#title": "NBC2",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "coYw-eVU0Ks",
+      "#id": "https://www.youtube.com/embed/coYw-eVU0Ks",
       "#title": "JapaNews24",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "XxJKnDLYZz4",
+      "#id": "https://www.youtube.com/embed/XxJKnDLYZz4",
       "#title": "FTV",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "4ZVUmEUFwaY",
+      "#id": "https://www.youtube.com/embed/4ZVUmEUFwaY",
       "#title": "SETN",
       "active": true
     },
