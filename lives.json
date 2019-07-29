@@ -1,62 +1,46 @@
 {
-  "visibleCount": 6,
+  "visibleCount": 2,
   "lives": [
-    
     {
+      "type": "youtube",
       "#id": "TL8mmew3jb8",
       "#title": "CTS",
       "active": true
     },
     {
+      "type": "youtube",
       "#id": "ED4QXd5xAco",
       "#title": "PTS",
       "active": true
     },
     {
+      "type": "youtube",
       "#id": "tPeUHECNLKs",
       "#title": "NBC2",
       "active": true
     },
     {
+      "type": "youtube",
       "#id": "coYw-eVU0Ks",
       "#title": "JapaNews24",
       "active": true
     },
     {
+      "type": "youtube",
       "#id": "XxJKnDLYZz4",
       "#title": "FTV",
       "active": true
     },
     {
+      "type": "youtube",
       "#id": "4ZVUmEUFwaY",
       "#title": "SETN",
       "active": true
     },
     {
-      "#id": "https://www.facebook.com/icablenews/videos/2359759377641534/",
-      "#title": "icablenews",
-      "active": false
-    },
-    {
-      "#id": "https://www.facebook.com/now.comNews/videos/467272603846889/",
-      "#title": "now.comNews",
-      "active": false
-    },
-    {
-
-      "#id": "https://www.facebook.com/hk.nextmedia/videos/398873840715480/",
-      "#title": "hk.nextmedia",
-      "active": false
-    },
-    {
-
-      "#id": "https://www.facebook.com/standnewshk/videos/324385491789003/",
-      "#title": "standnewshk",
-      "active": false
-    },
-    {
-      "#id": "https://www.facebook.com/onccnews/videos/2347986585414456/",
-      "#title": "onccnews",
+      "type": "youtube",
+      "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
+      "#title": "OFFLINE",
       "active": false
     }
   ]
