@@ -3,8 +3,8 @@
   "lives": [
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/TL8mmew3jb8",
-      "#title": "CTS",
+      "#id": "https://www.youtube.com/embed/XxJKnDLYZz4",
+      "#title": "FTV",
       "active": true
     },
     {
@@ -27,21 +27,21 @@
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/XxJKnDLYZz4",
-      "#title": "FTV",
+      "#id": "https://www.youtube.com/embed/TL8mmew3jb8",
+      "#title": "CTS",
       "active": true
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/4ZVUmEUFwaY",
-      "#title": "SETN",
+      "#title": "SETiNEWS",
       "active": true
     },
     {
       "type": "youtube",
-      "#id": "https://www.youtube.com/embed/Iwxt5qH2Vto?autoplay=1&loop=1&list=PLzxE-FyHBDAdbtATJXjEuHXxQd8EaD8BG",
-      "#title": "OFFLINE",
-      "active": false
+      "#id": "https://www.youtube.com/embed/ag9nrgExHyg",
+      "#title": "SETN",
+      "active": true
     }
   ]
 }
