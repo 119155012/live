@@ -34,13 +34,13 @@
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/4ZVUmEUFwaY",
-      "#title": "SETiNEWS",
+      "#title": "SETN",
       "active": true
     },
     {
       "type": "youtube",
       "#id": "https://www.youtube.com/embed/ag9nrgExHyg",
-      "#title": "SETN",
+      "#title": "SETiNEWS",
       "active": true
     }
   ]
