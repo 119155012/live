@@ -522,9 +522,9 @@
     }
   ],
   "edges": [
-    ["cytoscape", "computational genomics"],
-    ["cytoscape", "metabolic network modelling"],
-    ["cytoscape", "protein–protein interaction prediction"]
+    ["cytoscape", "microsoft excel"],
+    ["cytoscape", "Bioinformatics"],
+    ["cytoscape", "Semantic tableau"]
   ],
   "clusters": [
     { "key": "0", "color": "#6c3e81", "clusterLabel": "Graph theory" },
