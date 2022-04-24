@@ -523,7 +523,7 @@
   ],
   "edges": [
     ["cytoscape", "microsoft excel"],
-    ["cytoscape", "Bioinformatics"],
+    ["cytoscape", "Semantic tableau"],
     ["cytoscape", "Semantic tableau"]
   ],
   "clusters": [
