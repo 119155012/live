@@ -5959,16 +5959,16 @@
     { "key": "24", "color": "#666666", "clusterLabel": "Tensors (mathematics)" }
   ],
   "tags": [
-    { "key": "Chart type", "image": "charttype.svg" },
-    { "key": "Company", "image": "company.svg" },
-    { "key": "Concept", "image": "concept.svg" },
-    { "key": "Field", "image": "field.svg" },
-    { "key": "List", "image": "list.svg" },
-    { "key": "Method", "image": "method.svg" },
-    { "key": "Organization", "image": "organization.svg" },
-    { "key": "Person", "image": "person.svg" },
-    { "key": "Technology", "image": "technology.svg" },
-    { "key": "Tool", "image": "tool.svg" },
-    { "key": "unknown", "image": "unknown.svg" }
+    { "key": "Chart type" },
+    { "key": "Company" },
+    { "key": "Concept" },
+    { "key": "Field" },
+    { "key": "List" },
+    { "key": "Method" },
+    { "key": "Organization" },
+    { "key": "Person" },
+    { "key": "Technology" },
+    { "key": "Tool" },
+    { "key": "unknown" }
   ]
 }
