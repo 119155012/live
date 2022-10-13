@@ -3,6 +3,7 @@
     {
       "key": "人工智慧",
       "label": "人工智慧",
+      "tag": "理學院",
       "URL": "https://nccur.lib.nccu.edu.tw/simple-search?query=keyword:\"人工智慧\"&subclassType=&sort_by=2",
       "cluster": "0",
       "x": 643.82275390625,
@@ -13,7 +14,7 @@
       "key": "蔡瑞煌",
       "label": "蔡瑞煌",
       "tag": "理學院",
-      "URL": "https://nccur.lib.nccu.edu.tw/simple-search?query=contributo:\"蔡瑞煌\"&subclassType=&sort_by=2",
+      "URL": "https://nccur.lib.nccu.edu.tw/simple-search?query=contributor:\"蔡瑞煌\"&subclassType=&sort_by=2",
       "cluster": "1",
       "x": -857.2847900390625,
       "y": 602.7734375,
