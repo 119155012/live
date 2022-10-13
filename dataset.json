@@ -3,8 +3,8 @@
     {
       "key": "人工智慧",
       "label": "人工智慧",
-      "tag": "Tool",
-      "URL": "https://nccur.lib.nccu.edu.tw/simple-search?query=keyword:\"人工智慧\"&subclassType=&sort_by=2",
+      "tag": "理學院",
+      "URL": "https://nccur.lib.nccu.edu.tw/simple-search?query=keyword:"人工智慧"&subclassType=&sort_by=2",
       "cluster": "0",
       "x": 643.82275390625,
       "y": -770.3126220703125,
@@ -13,7 +13,7 @@
     {
       "key": "microsoft excel",
       "label": "Microsoft Excel",
-      "tag": "Tool",
+      "tag": "理學院",
       "URL": "https://en.wikipedia.org/wiki/Microsoft%20Excel",
       "cluster": "1",
       "x": -857.2847900390625,
@@ -23,7 +23,7 @@
     {
       "key": "gephi",
       "label": "Gephi",
-      "tag": "Tool",
+      "tag": "理學院",
       "URL": "https://en.wikipedia.org/wiki/Gephi",
       "cluster": "0",
       "x": 343.4423828125,
@@ -33,7 +33,7 @@
     {
       "key": "microsoft power bi",
       "label": "Microsoft Power BI",
-      "tag": "Tool",
+      "tag": "理學院",
       "URL": "https://en.wikipedia.org/wiki/Microsoft%20Power%20BI",
       "cluster": "1",
       "x": -900.3515014648438,
@@ -43,7 +43,7 @@
     {
       "key": "qlik",
       "label": "Qlik",
-      "tag": "Tool",
+      "tag": "理學院",
       "URL": "https://en.wikipedia.org/wiki/Qlik",
       "cluster": "1",
       "x": -627.0659790039062,
