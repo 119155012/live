@@ -1,10 +1,10 @@
 {
   "nodes": [
     {
-      "key": "cytoscape",
-      "label": "Cytoscape",
+      "key": "人工智慧",
+      "label": "人工智慧",
       "tag": "Tool",
-      "URL": "https://en.wikipedia.org/wiki/Cytoscape",
+      "URL": "https://nccur.lib.nccu.edu.tw/simple-search?query=keyword:"人工智慧"&subclassType=&sort_by=2",
       "cluster": "0",
       "x": 643.82275390625,
       "y": -770.3126220703125,
@@ -522,9 +522,9 @@
     }
   ],
   "edges": [
-    ["cytoscape", "microsoft excel"],
-    ["cytoscape", "bioinformatics"],
-    ["cytoscape", "semantic tableau"]
+    ["人工智慧", "microsoft excel"],
+    ["人工智慧", "bioinformatics"],
+    ["人工智慧", "semantic tableau"]
   ],
   "clusters": [
     { "key": "0", "color": "#6c3e81", "clusterLabel": "Graph theory" },
